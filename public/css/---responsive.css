@@ -1,0 +1,1701 @@
+@media all and (max-width: 1600px){
+    .banner-section ul.chat-list{
+       right: 80px;
+   }
+}
+@media all and (max-width: 1440px){
+    .warpper{
+       padding-right: 100px;
+       padding-left: 140px;
+   }
+    .banner-section ul.chat-list{
+       right: 70px;
+   }
+    .form-section .form-text h4{
+       font-size: 27px;
+       margin-bottom: 10px;
+   }
+    .form-section .form-text .input-box input{
+       font-size: 20px;
+       padding: 15px 0;
+       padding-left: 10px;
+   }
+    .form-section .form-text .input-box select{
+       padding-left: 10px;
+   }
+    .form-section .text-box{
+       margin-bottom: 40px;
+   }
+    .form-section .form-text ul.business-type .business-type-box img{
+       margin-bottom: 40px;
+   }
+    .form-section .form-text .input-box select{
+       font-size: 20px;
+   }
+    .usp-section ul.process-list li p{
+       font-size: 14px;
+   }
+    .latest-news-section ul.process-list li .text-box p{
+       font-size: 14px;
+   }
+    .pending-amount-detail .amount-box{
+       padding-left: 15px;
+   }
+    .pending-amount-detail .Industry-box{
+       padding-right: 15px;
+   }
+    .borrower-section .about-section .text-box p{
+       font-size: 19px;
+   }
+    .borrower-section .about-section ul.person-list li{
+       padding-left: 8px;
+       padding-right: 5px;
+   }
+    .upload-section .pending-detail .text-box{
+       width: 35%;
+   }
+    .upload-section .pending-detail .btn-box{
+       width: 29%;
+       text-align: right;
+   }
+    .filter-status-sec .ur-request-box ul.process-list li a::after{
+       right: 10px;
+   }
+    .merchant-request-send-sec h3{
+       font-size: 25px;
+   }
+    .merchant-request-send-sec h2{
+       font-size: 90px;
+   }
+    .merchant-request-send-sec h4{
+       padding-left: 25px;
+       font-size: 23px;
+   }
+    .merchant-loan-req-box .loan-req-box .amount-box{
+       padding-left: 10px;
+   }
+    .merchant-loan-req-box .loan-req-box .amount-box h6{
+       font-size: 22px;
+   }
+    .pending-detail{
+       padding: 20px 10px;
+   }
+    .merchant-other-details-section a.btn{
+       padding: 10px;
+   }
+    .merchant-other-details-section .pending-detail .name span.date{
+       margin-top: 2px;
+   }
+    .merchant-loan-req-box .loan-req-box .sno-box{
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+   }
+    .pending-detail .name,.pending-amount-detail .Industry-box,.pending-amount-detail .amount-box{
+       padding-left: 10px;
+   }
+    .Industry-box .noti-box{
+       top: -15px;
+       right: -5px;
+   }
+    .merchant-other-details-section .pending-detail .img-box {
+        height: 35px;
+   }
+   .about-detail-section ul.about-tabs li{font-size: 18px;}
+   .borrower-section .about-section ul.loan-list li .text h6{font-size: 25px;}
+   .borrower-section .about-section ul.loan-list li .text span{font-size: 14px;}
+   .borrower-section .about-section .text-box h5{font-size: 24px;}
+   .summary-box .summary-total-box h3{font-size: 30px;}
+   .summary-box .summary-total-box p{font-size: 15px;}
+   ul.merchant-notification-list li p{font-size: 13px;}
+   .dashboard-summmary-section .my-request-box{padding: 25px 20px;}
+   .notifications-box.ur-message-slider .btn-box{width: 18%;}
+   ul.detail-list li span{font-size: 14px;}
+   .deals-info-section ul.detail-list li:last-child {
+    padding-left: 15px;
+    margin-left: 15px;
+}
+ul.detail-list li h6{font-size: 22px;}
+.deal-sec .btn-box a.btn{padding: 12px 40px;}
+ul.business-edit .business-type-box h5{font-size: 13px;}
+li.notification-icon .merchant-notification-box ul.summmary-list li span,li.notification-icon .merchant-notification-box ul.summmary-list li p strong{font-size: 13px;}
+li.notification-icon .merchant-notification-box ul.summmary-list li{padding-left: 20px !important;}
+
+}
+@media all and (max-width: 1370px){
+    .container{
+        padding: 0 40px;
+   }
+    .pending-detail .img-box{
+       height: 35px;
+   }
+    header.warpper .logo-box img{
+       width: 170px;
+   }
+    .banner-section .text-box h1{
+       font-size: 45px;
+       height: 50px;
+       margin-bottom: 30px;
+   }
+    .banner-section .text-box h2{
+       font-size: 45px !important;
+   }
+    .banner-section .text-box h6{
+       font-size: 19px;
+   }
+    .text-box h2{
+       font-size: 40px !important;
+   }
+    ul.point-list li{
+       margin-bottom: 25px;
+   }
+    .text-box h4{
+       font-size: 21px;
+   }
+    ul.benefits-list li h3{
+       font-size: 25px;
+   }
+    header ul.nav-list li{
+       padding-right: 35px;
+   }
+    p{
+       font-size: 17px;
+   }
+    header ul.nav-list li:last-child{
+       padding-left: 40px;
+   }
+    .dreams-section .flex-box .col-5 .img-box img{
+       width: 90%;
+   }
+    .dreams-section .flex-box .col-5 .img-box{
+        position: absolute;
+        top: -50px;
+        left: -490px;
+   }
+    .dreams-blue-box h4{
+        margin: 30px 0;
+   }
+    .banner-section ul.chat-list{
+       right: 50px;
+   }
+    ul.benefits-list li img{
+       width: 60%;
+   }
+    .dreams-blue-box h3{
+       font-size: 40px;
+   }
+    .summary-box .summary-total-box h3{
+       font-size: 25px;
+   }
+    .summary-box .summary-total-box p{
+       font-size: 15px;
+   }
+    .notification-section ul.summmary-list p,.notification-section ul.summmary-list p strong {
+       font-size: 14px;
+   }
+    .contact-section ul.summmary-list p{
+       font-size: 14px;
+   }
+    .usp-section ul.process-list li{
+       padding: 20px 13px;
+   }
+    .requirement-box{
+       padding: 15px 20px;
+   }
+    .borrower-section .about-section{
+       padding: 30px 20px;
+   }
+    .about-detail-section ul.about-tabs li{
+        font-size: 18px;
+   }
+    .contact-section ul.summmary-list a{
+       padding-left: 10px;
+   }
+    .upload-section .pending-detail .text-box p{
+       font-size: 12px;
+   }
+    .dashborad-section span{
+       font-size: 12px;
+   }
+    .about-busines-box ul.about-detail-list li span{
+       font-size: 14px;
+   }
+    .about-busines-box ul.about-detail-list li h6{
+       font-size: 23px;
+   }
+    .contact-section ul.summmary-list a{
+       font-size: 14px;
+   }
+    .gallery-section ul.process-list li{
+       padding: 0;
+   }
+    .pending-request-box ul.level-2-list p, .pending-request-box ul.level-2-list span{
+       font-size: 13px;
+   }
+   .pending-detail .name h6{font-size: 15px;}
+    .ur-pending-request-box ul.business-type .business-type-box{
+       padding: 15px 10px;
+   }
+    .dashborad-section .text h4{
+       font-size: 20px;
+   }
+    .ur-pending-request-box .filter-box .text h4{
+       font-size: 18px;
+   }
+    ul.quick-list li a{
+       font-size: 15px;
+   }
+    ul.merchant-notification-list li p,ul.merchant-notification-list li p strong{
+       font-size: 14px;
+   }
+    ul.merchant-notification-list li{
+       padding-left: 45px;
+   }
+    ul.merchant-notification-list li span{
+       margin-bottom: 5px;
+   }
+    .merchant-loan-req-box .loan-req-box .amount-box.dur-box{
+       padding-left: 10px;
+   }
+    .pending-request-box .level-1 .img-box{
+       height: 75px;
+   }
+    .merchant-other-details-section .pending-detail .img-box {
+        height: 26px;
+   }
+   .dashboard-summmary-section .my-request-box ul.summmary-list li span{width: 45%;}
+   .dashboard-summmary-section .my-request-box ul.summmary-list li p{width: 55%;font-size: 12px;}
+   .dashboard-summmary-section .my-request-box ul.summmary-list li p strong{font-size: 12px;}
+   .dashborad-section .text h4{font-size: 18px;}
+   .dashboard-section ul.process-list li{padding: 20px 10px;}
+   .pending-request-section .welcome-box .person-box ul li{font-size: 14px;}
+   .pending-request-section .welcome-box .person-box h4{font-size: 23px;line-height: 1.2;}
+   .dashboard-section ul.process-list li h6{font-size: 24px;}
+   .ur-request-section ul.process-list li a img {
+    width: 40px;
+    object-fit: scale-down;
+}
+.pending-request-box .btn-box a.btnn{font-size: 12px;}
+ul.process-list li h6{font-size: 20px;}
+.ur-request-section ul.process-list li a{padding: 18px 20px;}
+.ur-request-section ul.process-list li a img {
+    width: 40px;
+    object-fit: scale-down;
+}
+.pending-request-box .btn-box a.btnn img{max-width: 35px;}
+.pending-request-box ul.level-2-list{margin: 15px 0;padding: 15px 0;}
+.pending-request-box .level-1 .amount-box h6{font-size: 18px;}
+.pending-request-box .level-1 .text-box h6{font-size: 18px;}
+.pending-request-box .level-3 p.up{font-size: 13px;}
+.pending-request-box ul.level-2-list li{padding: 0 5px 0 10px;}
+.filter-status-sec .ur-request-box ul.process-list li a h6{font-size: 16px;padding-left: 10px;}
+.filter-status-sec .ur-request-box ul.process-list li a::after{right: 5px;}
+.ur-pending-request-box ul.business-type .business-type-box h5{font-size: 12px;}
+.dashboard-section{padding: 20px 50px 70px 30px;}
+.merchant-profile-form-box .input-box label{font-size: 13px;}
+.merchant-profile-form-box .input-box input, .merchant-profile-form-box .input-box textarea{padding: 11px 20px;font-size: 13px;}
+.merchant-profile-form-box .input-box{margin-bottom: 15px;padding-top: 20px;}
+.merchant-profile-form-box{padding: 25px;}
+.merchant-profile-form-box .profile-form-box{margin-top: 25px;}
+ul.requirement-list li h6{font-size: 20px;}
+ul.requirement-list li{padding: 10px 20px;}
+.notification-section ul.summmary-list li{padding: 10px 15px;}
+.notification-section ul.summmary-list p::after,
+ul.merchant-notification-list li span::after{width: 15px;height: 18px;background-size: 90%;top: 50%;left: -4px;}
+.about-busines-box p{font-size: 14px;}
+.message-section textarea{font-size: 15px;}
+ul.summmary-list{margin-top: 20px;}
+.message-section button{margin-top: 30px;}
+ul.merchant-notification-list li{padding-left: 35px;}
+ul.merchant-notification-list li span::after{left: -22px;}
+.merchant-other-details-section a.btn,.ur-business-loan-box .text.flex-box .btn-box a.btns {
+    padding: 7px 10px;
+    font-size: 12px;
+}
+.ur-business-loan-box .text.flex-box h4{font-size: 17px;}
+.ur-business-loan-box .text.flex-box p.bb{font-size: 15px;}
+.Industry-box .noti-box{font-size: 12px;}
+.dashboard-summmary-section .my-request-box{padding: 30px 20px;}
+.pending-detail{padding: 13px 10px;}
+
+.merchant-loan-req-box .loan-req-box .amount-box h6{font-size: 19px;}
+.ur-message-slider-box .ur-message-slider{padding: 20px;}
+.ur-message-slider .text-box{margin-top: 12px;}
+.ur-message-slider .img p{font-size: 15px;}
+ul.summmary-list li p.Location::after{left: 0;}
+.reply-box input[type="submit"]{font-size: 13px;}
+.ur-message-slider .text-box p{font-size: 14px;}
+a.btns.loadmore{font-size: 12px;padding: 8px 17px;}
+ul.detail-list li h6{font-size: 23px;}
+ul.detail-list li span{font-size: 14px;}
+.ur-business-loan-box .text h5{font-size: 15px;}
+ul.hastag-list li a{font-size: 14px;}
+.ur-message-slider .text-box p{font-size: 14px;}
+.ur-message-slider .text-box p strong{font-size: 14px;}
+.pending-amount-detail .amount-box p{font-size: 12px;}
+.deal-sec .btn-box a.btn{padding: 12px 30px;font-size: 14px;}
+.deals-info-box .grey-sec ul.summmary-list li p, .deals-info-box .grey-sec ul.summmary-list li span{font-size: 13px;}
+.deals-info-box .grey-sec ul.summmary-list li{padding: 0 0 10px 0;margin-bottom: 10px;}
+ul.detail-list li span{font-size: 12px;}
+.deal-sec ul.detail-list li span{font-size: 13px;}
+.deal-sec{padding-left: 30px;}
+.deal-admin-section{padding: 30px 40px;}
+.popup-form h5 {font-size: 19px;width: 70%;}
+.progress-details .lender-list-item-info p strong{font-size: 13px;}
+.ur-business-loan-box .ab-owner ul.summmary-list li p{padding-right: 0;}
+.ur-business-loan-box .ab-owner ul.summmary-list li p{padding-left: 25px;}
+ul.business-edit .business-type-box{padding: 12px 15px;}
+.merchant-profile-form-box .input-box > label,.profile-form-box h6{font-size: 13px;}
+.contact-section ul.summmary-list a,.contact-section ul.summmary-list p{font-size: 13px;}
+.pending-amount-detail .Industry-box p{font-size: 12px;}
+.dot-drop-down ul li a{font-size: 12px;}
+ul.merchant-notification-list li span::after{top: 10%;}
+.merchant-request-send-sec h4{font-size: 20px;}
+ul.merchant-notification-list li p, ul.merchant-notification-list li p strong{font-size: 13px;}
+}
+@media all and (max-width: 1280px){
+    .dashborad-section p{
+       font-size: 13px;
+   }
+    .dashborad-section span{
+       font-size: 13px;
+   }
+    .summary-box .summary-total-box p{
+       font-size: 13px;
+   }
+    .upload-section .pending-detail a.btns{
+       padding: 10px 14px;
+   }
+    .dashborad-section span{
+       font-size: 12px;
+   }
+    .pending-request-box .btn-box a.btnn{
+       padding: 7px 15px 7px 8px;
+       font-size: 13px;
+   }
+    .filter-status-sec .ur-request-box ul.process-list li a img{
+       width: 25px;
+   }
+    .filter-status-sec .ur-request-box ul.process-list li a h6{
+       font-size: 16px;
+   }
+    .ur-business-loan-box .ab-owner ul.summmary-list li p{
+       width: 40%;
+       padding-left: 25px;
+       padding-right: 0;
+   }
+    .pending-request-box .level-1 .img-box{
+       height: 70px;
+   }
+   .dashboard-section ul.process-list li img{width: 25%;}
+   .dashboard-section ul.process-list li a{padding-left: 13px;width: 75%;}
+   .pending-detail .name h6{font-size: 14px;}
+   .ur-pending-request-box ul.business-type.list-4 li{width: calc((100% - 15px) / 4);}
+   .ur-pending-request-box ul.business-type .business-type-box{padding: 12px 10px;}
+   .dashboard-section{padding: 20px 30px 70px 20px;}
+   .ur-request-sec a.btn.filter-button{min-width: 220px;}
+   .filter-status-sec .ur-pending-request-box{padding: 20px;}
+   .filter-status-sec .ur-request-box ul.process-list li{padding: 17px 15px;}
+   .upload-section .pending-detail a.btns{padding: 8px 15px;font-size: 12px;}
+   .about-detail-section ul.about-tabs li{font-size: 16px;}
+   .dashborad-section .text h4{font-size: 17px;}
+   .contact-section ul.summmary-list p{font-size: 12px;padding-right: 0;}
+   .pending-amount-detail .Industry-box{padding-left: 0;}
+   .pending-amount-detail .Industry-box{padding-right: 10px;}
+   .contact-section ul.summmary-list a {
+    font-size: 13px;
+}
+.progress-details .lender-list-item-info p strong{font-size: 11px;}
+.notifications-box.ur-message-slider .text-box{width: 68%;}
+ul.business-edit .business-type-box{padding: 12px;}
+ul.business-edit .business-type-box h5{font-size: 12px;}
+}
+@media all and (max-width: 1030px){
+    .pending-detail .img-box{
+       height: 45px;
+   }
+    .warpper,.container{
+       padding: 0 80px;
+   }
+    .button_container{
+       display:inline-block;
+       position:absolute;
+       top:35%;
+       right:3%;
+       height:27px;
+       width:35px;
+       cursor:pointer;
+       z-index:9;
+       -webkit-transition:opacity .25s ease;
+       transition:opacity .25s ease;
+   }
+    .button_container:hover{
+       opacity:.7;
+   }
+    .button_container.active .top{
+       -webkit-transform:translateY(11px) translateX(0) rotate(45deg);
+       transform:translateY(11px) translateX(0) rotate(45deg);
+       background:#fff;
+   }
+    .button_container.active .middle{
+       opacity:0;
+       background:#FFF;
+   }
+    .button_container.active .bottom{
+       -webkit-transform:translateY(-11px) translateX(0) rotate(-45deg);
+       transform:translateY(-11px) translateX(0) rotate(-45deg);
+       background:#fff;
+   }
+   /* .button_container:hover.button_container span{
+       background-color: #fff;
+   }
+    */
+    .button_container span{
+       background: #00a7e9;
+       border:none;
+       height:2px;
+       width:100%;
+       position:absolute;
+       top:0;
+       left:0;
+       -webkit-transition:all .35s ease;
+       transition:all .35s ease;
+       cursor:pointer;
+   }
+    .button_container span:nth-of-type(2){
+       top:11px;
+   }
+    .button_container span:nth-of-type(3){
+       top:22px;
+   }
+    header nav ul li{
+       padding-left:0;
+   }
+    header nav{
+       float:none;
+   }
+    .overlay{
+        position:fixed;
+        background:#00a7e9;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        opacity:0;
+        visibility:hidden;
+        -webkit-transition:opacity 1s, visibility .1s, width 1s;
+        transition:opacity .1s, visibility 1s, width 1s, transform .5s;
+        overflow:hidden;
+        z-index:11;
+        transform: translateX(100%);
+   }
+    .overlay.open{
+        opacity:1;
+        visibility:visible;
+        height:100%;
+        z-index: 8;
+        width: 100%;
+        transform: translateX(0);
+   }
+    header.warpper .logo-box img{
+       transition: all linear .2;
+   }
+    header.warpper .logo-box img.open{
+        filter: invert(.3);
+        position: relative;
+        z-index: 11;
+   }
+    .overlay.open .nav-list a{
+       -webkit-animation:fadeInRight .5s ease forwards;
+       animation:fadeInRight .5s ease forwards;
+       -webkit-animation-delay:.35s;
+       animation-delay:.35s;
+       opacity: 0;
+   }
+    .overlay nav{
+       position:relative;
+       height:auto;
+       top:35%;
+       -webkit-transform:translateY(-50%);
+       transform:translateY(-50%);
+       text-align:center;
+   }
+    .popup-section .container{
+       padding: 0 15px;
+   }
+    @-webkit-keyframes fadeInRight{
+       0%{
+           opacity:0;
+       }
+        100%{
+           opacity:1;
+       }
+   }
+    @keyframes fadeInRight{
+       0%{
+           opacity:0;
+       }
+        100%{
+           opacity:1;
+       }
+   }
+    header ul.nav-list li a.apply-btn{
+       opacity: 0;
+   }
+    .overlay.open .nav-list a.apply-btn{
+       opacity: 1;
+   }
+    header ul.nav-list li a.apply-btn .button_container{
+       display: block;
+   }
+    .banner-section{
+       background-size: 50%;
+       padding: 120px 0 80px;
+   }
+    .what-we-do-section{
+       padding: 80px 0;
+       background-size: 50%;
+       background-position-Y: 40%;
+   }
+    .text-box h2{
+       font-size: 33px !important;
+   }
+    ul.point-list li{
+       font-size: 18px;
+   }
+    a.btn{
+       padding: 12px 45px;
+   }
+    .our-partners-section{
+       margin: 100px 0;
+   }
+    .our-partners-section{
+       margin: 80px 0;
+   }
+    .benefits-section{
+       padding: 80px 0;
+   }
+    ul.benefits-list li{
+        width: 80%;
+        min-width: 450px;
+        max-width: 450px;
+        padding: 0 30px;
+        white-space: normal;
+   }
+    ul.benefits-list {
+        display: flex;
+        width: auto;
+        overflow-x: scroll;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+        -ms-overflow-style: none;
+        overflow: -moz-scrollbars-none;
+        flex-wrap: nowrap;
+        padding-right: 10%;
+        padding-bottom: 50px;
+        justify-content: flex-start;
+        margin-left: -8%;
+        padding-left: 0;
+        margin-right: 0;
+   }
+    .dreams-section .flex-box .col-5 .img-box{
+        position: static;
+   }
+    .dreams-section{
+        background-attachment: unset;
+   }
+    .dreams-section .flex-box .col-5{
+       width: 100%;
+       display: flex;
+       flex-wrap: wrap;
+       flex-direction: column-reverse;
+       margin-top: 50px;
+   }
+    .dreams-section .flex-box .col-5 .img-box {
+       display: none;
+   }
+    .dreams-section{
+       padding: 80px 0;
+   }
+    .dreams-blue-box h4{
+       margin: 30px 0;
+   }
+    .faq-section{
+        padding: 80px 0;
+   }
+    .faq-section .col-3,.faq-section .col-5{
+       width: 100%;
+   }
+    .mobile-btn{
+       display: inline-block;
+   }
+    .faq-section .text-box a.btn{
+       display: none;
+   }
+    .faq-section .mobile-btn{
+       margin-top: 40px;
+   }
+    footer{
+        padding-top: 80px;
+   }
+    .lower-footer-list {
+       justify-content: center;
+   }
+    ul.lower-footer-list li{
+       margin: 5px 0;
+   }
+    footer .text-box a.btn{
+       margin-top: 40px;
+   }
+    .footer-middle{
+       padding-bottom: 70px ;
+   }
+    .lower-footer ul.lower-footer-list li{
+       padding-right: 15px;
+       margin-right: 15px;
+   }
+    header ul.nav-list li{
+       width: 100%;
+       margin-bottom: 20px;
+       padding: 0;
+   }
+    header ul.nav-list li a{
+        font-size: 30px;
+   }
+    header ul.nav-list li:last-child{
+       display: none;
+   }
+    .overlay.open .nav-list a{
+       margin-top: 0;
+       display: inline-block;
+       letter-spacing: 1px;
+   }
+    .banner-section .warpper > .flex-box {
+       align-items: center;
+   }
+    .banner-section .warpper > .flex-box .col-5.video-box{
+       width: 60%;
+       padding-left: 20px;
+       margin-top: -50px;
+   }
+    .banner-section .text-box h1{
+       font-size: 40px;
+   }
+    .banner-section .text-box h2{
+       font-size: 40px !important;
+   }
+    .form-section .form-text h4{
+       font-size: 24px;
+   }
+    .form-section .form-text .input-box input{
+       font-size: 18px;
+   }
+    .form-section .form-text ul.business-type{
+        display: flex;
+        width: auto;
+        overflow-x: scroll;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+        -ms-overflow-style: none;
+        overflow: -moz-scrollbars-none;
+        flex-wrap: nowrap;
+        padding-right: 10%;
+        padding-bottom: 50px;
+        justify-content: flex-start;
+        margin-left: 0;
+        padding-left: 0;
+        margin-right: 0;
+   }
+    .form-section .form-text ul.business-type::after{
+       display: none;
+   }
+    .form-section .form-text ul.business-type li{
+        max-width: 300px;
+        min-width: 300px 
+   }
+    .form-section .form-text .input-box select{
+       font-size: 18px;
+   }
+    .form-section{
+       margin-top: 80px;
+       margin-bottom: 80px;
+       padding-bottom: 70px;
+   }
+    .banner-section .text-box h6{
+       width: 100%;
+       font-size: 18px;
+   }
+    header ul.nav-list li a{
+       color: #fff;
+       font-weight: 600;
+   }
+    .what-we-do-section .video-box{
+       margin-top: -30px;
+       padding-left: 20px;
+   }
+    .dreams-blue-box h3{
+       width: 40%;
+   }
+    .pending-request-section{
+       width: 100%;
+       padding: 30px 50px;
+   }
+    .dashboard-section{
+       width: 100%;
+       padding: 30px 50px;
+   }
+    .borrower-section .about-section{
+       width: 100%;
+   }
+    .borrower-section .about-detail-section{
+       width: 100%;
+       margin: 50px 0;
+   }
+    .borrower-section .requirement-section{
+       width: 50%;
+       margin: 0 auto;
+   }
+    .dashborad-header .nav-bar{
+       width: 60%;
+   }
+    .merchant-profile-edit-sec .pending-request-section{
+        width: 50%;
+   }
+    .merchant-profile-edit-sec .about-detail-section ul.about-tabs li{
+       width: 23%;
+   }
+    .merchant-profile-edit-sec{
+        background-color: #edf2f6;
+   }
+    .merchant-profile-edit-sec .filter-status-sec{
+       width: 100%;
+       padding-left: 50px;
+   }
+    .dashborad-header .profile-box{
+       width: 37%;
+   }
+    .pending-request-box .level-1 .img-box{
+       height: 83px;
+   }
+    .pending-request-box .level-1 .text-box h6{
+       font-size: 17px;
+   }
+   .deals-info-box .grey-sec{width: 100%;}
+   .deal-sec{width: 50%;padding-left: 0;}
+   header ul.nav-list li.login-btn{justify-content: center;padding: 0;}
+   header ul.nav-list .dropdown-content ul li{width: auto;margin-bottom: 0;}
+   header ul.nav-list .dropdown-content{
+    min-width: auto;
+    right: 24px;
+    top: auto;
+    width: 90%;
+bottom: -220px;
+   }
+   header ul.nav-list li.login-btn.dropdown::after{right: 110px;}
+   header ul.nav-list .dropdown-content ul li:last-child{display: block;}
+}
+@media all and (max-width: 925px){
+    .warpper, .container{
+       padding: 0 50px;
+   }
+    .text-box h2{
+       font-size: 28px !important;
+   }
+    ul.point-list li{
+       font-size: 16px;
+   }
+    .benefits-section::after{
+        top: 50px;
+        left: 10px;
+   }
+    .ur-request-sec a.btn{
+       min-width: 100%;
+   }
+    .form-box input{
+       width: 60%;
+       font-size: 15px;
+   }
+    .form-box{
+       padding-left: 20px;
+   }
+    .banner-section ul.chat-list{
+       right: 30px;
+   }
+    .form-box button{
+       width: 40%;
+       font-size: 15px;
+   }
+    .form-section .form-text.flex-box{
+       margin: 0 -15px;
+   }
+    .form-section .form-text.flex-box .input-box{
+       padding: 0 15px;
+   }
+    .banner-section .warpper > .flex-box .col-5{
+       width: 100%;
+   }
+    .banner-section .warpper > .flex-box .col-5.video-box{
+        width: 70%;
+       margin: 0 auto;
+   }
+    .banner-section .warpper > .flex-box .col-4{
+       width: 100%;
+   }
+    .banner-section .warpper > .flex-box .col-5.video-box{
+       width: 90%;
+   }
+    .dreams-blue-box h3{
+       width: 50%;
+   }
+    .dreams-blue-box h3::after{
+       left: -40px;
+   }
+    ul.benefits-list li img{
+       width: 40%;
+   }
+    .pending-request-box .btn-box a.btnn:last-child{
+       margin-left: 0;
+   }
+    .filter-status-sec .ur-pending-request-box{
+       width: 100%;
+       margin-bottom: 30px;
+   }
+    .filter-status-sec .ur-request-sec{
+       width: 50%;
+   }
+    .pending-request-box .level-1 .img-box{
+       height: 63px;
+   }
+   .deals-info-section ul.detail-list li{width: 100%;}
+   .deals-info-section ul.detail-list li:last-child{
+       padding-left: 0;
+       margin-left: 0;
+       margin-top: 15px;
+       padding-top: 15px;
+       border-top: 1px solid #d0dfe5;
+       border-left: none;
+   }
+}
+@media all and (max-width: 800px){
+    .banner-section .text-box h1{
+       font-size: 36px;
+   }
+    .banner-section .text-box h2{
+       font-size: 36px !important;
+   }
+    .banner-section .text-box p{
+       font-size: 17px;
+   }
+    .what-we-do-section .col-4{
+       width: 100%;
+   }
+    .what-we-do-section .mobile-img{
+       display: block;
+       width: 100%;
+       height: 350px;
+       object-fit: contain;
+   }
+    .what-we-do-section{
+       background: none;
+   }
+    .what-we-do-section ul.point-list{
+       margin-top: 10px;
+   }
+    ul.benefits-list li{
+       min-width: 500px;
+        max-width: 500px;
+   }
+    .dreams-blue-box{
+       width: 70%;
+   }
+    .footer-middle .footer-nav{
+       width: 100%;
+       margin-bottom: 40px;
+   }
+    .footer-middle .col-4{
+       width: 60%;
+   }
+    .lower-footer{
+       padding-bottom: 40px;
+   }
+    header.warpper .logo-box img{
+       width: 150px;
+   }
+    .banner-section .warpper > .flex-box .col-4{
+       width: 100%;
+   }
+    .banner-section .text-box a.btn{
+       margin-top: 30px;
+   }
+    .banner-section .warpper > .flex-box .col-5{
+       width: 100%;
+       padding-left: 0;
+       margin-top: 10px;
+   }
+    .what-we-do-section .video-box{
+       display: none;
+       visibility: hidden;
+   }
+    .what-we-do-section .text-box h2{
+       margin-bottom: 10px;
+   }
+    .blue-line::before{
+       display: none !important;
+   }
+    .blue-line::after{
+       width: 100% !important;
+   }
+    .dreams-blue-box h3{
+       width: 80%;
+       font-size: 30px;
+   }
+    .dreams-blue-box h3::before{
+       right: 80px;
+   }
+    .dashboard-section,.pending-request-section{
+        padding: 30px 20px;
+   }
+    .borrower-section{
+       padding: 30px 20px;
+   }
+    .merchant-profile-edit-sec .filter-status-sec{
+       padding: 20px;
+   }
+}
+@media all and (max-width: 767px){
+    .warpper, .container{
+       padding: 0 20px;
+   }
+    .banner-section{
+       padding-top: 70px;
+       background: none;
+   }
+    .banner-section .col-4{
+       width: 100%;
+   }
+    .banner-section .col-4 .mobile-img{
+       display: block;
+       object-fit: cover;
+       height: 300px;
+       width: 100%;
+       margin: 30px 0;
+   }
+    .banner-section ul.chat-list{
+        justify-content: space-between;
+        margin-top: 60px;
+        width: 100%;
+        padding: 0 20px;
+        right: 0;
+        bottom: 15px;
+   }
+    .banner-section .text-box h1{
+       margin-bottom: 10px;
+   }
+    .banner-section .text-box a.btn{
+       padding: 10px 30px;
+       margin-top: 20px;
+   }
+    .banner-section .text-box a.btn::after{
+       top: 15px;
+   }
+    .banner-section ul.chat-list li a.chat-btn{
+       font-size: 14px;
+   }
+    .banner-section ul.chat-list li a.phn-btn{
+       width: 45px;
+       height: 45px;
+   }
+    .banner-section ul.chat-list li a.phn-btn::before{
+        background-size: cover;
+        width: 23px;
+       height: 23px;
+   }
+    .banner-section ul.chat-list li a.phn-btn:hover::before{
+        background-size: cover;
+        width: 23px;
+       height: 23px;
+   }
+    .banner-section .text-box h6{
+       font-size: 17px;
+   }
+    .benefits-section::after{
+       top: 25px;
+   }
+    ul.partners-list .slick-arrow.slick-prev{
+       left: -10px;
+   }
+    ul.partners-list .slick-arrow.slick-next{
+       right: -10px;
+   }
+    .what-we-do-section .mobile-img{
+       height: 270px;
+   }
+    .text-box h2{
+       font-size: 27px !important;
+       line-height: 1.2;
+   }
+    ul.benefits-list li{
+       min-width: 330px;
+        max-width: 330px;
+       width: 80%;
+   }
+    ul.benefits-list li h3{
+       margin-top: 20px;
+   }
+    ul.benefits-list li img{
+       width: 50%;
+   }
+    .dreams-section .text-box p br{
+       display: none;
+   }
+    .dreams-blue-box{
+       width: 100%;
+   }
+    .faq-section .current-open-box h3{
+       font-size: 18px;
+   }
+    .footer-middle .footer-nav .list-box{
+       width: 100%;
+   }
+    .footer-middle .footer-nav .list-box:last-child{
+       margin-top: 30px;
+   }
+    .footer-middle .col-4{
+       width: 100%;
+   }
+    footer .text-box h2{
+       font-size: 25px !important;
+   }
+    .footer-middle{
+       margin-top: 40px;
+   }
+    .footer-middle .sub-box h4{
+       margin-bottom: 20px;
+   }
+    footer .text-box a.btn{
+       margin-top: 20px;
+   }
+    .form-box input{
+       width: 65%;
+   }
+    .form-box button{
+       width: 35%;
+       font-size: 14px;
+   }
+    footer .text-box h2{
+       font-size: 25px;
+   }
+    .benefits-section a.btn::after{
+       top: 13px;
+   }
+    .banner-section .col-4{
+        flex-wrap: wrap;
+        display: flex;
+   }
+    .banner-section .text-box h1{
+       order: 0;
+   }
+    .banner-section .col-4 .mobile-img{
+       order: 3;
+   }
+    .banner-section .text-box p{
+       order: 1;
+   }
+    .banner-section .text-box a.btn{
+       order: 2;
+       margin-bottom: 10px;
+   }
+    .form-section .form-text h4{
+       font-size: 20px;
+   }
+    header ul.nav-list li a{
+       font-size: 25px;
+   }
+    .form-section .form-text .input-box input{
+       font-size: 17px;
+       padding: 10px 0;
+   }
+    .form-section .form-text .input-box input.input-sl{
+       width: 100%;
+       padding: 10px 20px;
+       font-size: 17px;
+   }
+    .form-section .form-text .input-box span{
+       font-size: 17px;
+       padding-left: 0;
+       margin-top: 15px;
+   }
+    .banner-section .warpper > .flex-box .col-5.video-box{
+       width: 100%;
+       padding-left: 0;
+   }
+    .form-section .form-text ul.business-type .business-type-box h5{
+       font-size: 17px;
+       min-height: auto;
+   }
+    .form-section .form-text ul.business-type .business-type-box img{
+       margin-bottom: 15px;
+   }
+    .form-section .form-text .input-box .date-pick::after{
+       top: 5px;
+   }
+    .form-section .form-text .input-box select{
+       padding-left: 3px;
+   }
+    .pending-request-section .welcome-box .person-box{
+       padding-left: 0;
+       width: 100%;
+       margin-top: 20px;
+   }
+    .other-details-section{
+       padding-top: 20px;
+   }
+    .dashborad-section .text h4{
+       margin-bottom: 20px;
+   }
+    .pending-detail .img-box{
+       width: 100%;
+       max-width: 40px;
+       margin-bottom: 15px;
+       height: 40px;
+   }
+    .pending-detail .img-box img{
+       width: 45px;
+   }
+    .pending-detail{
+       padding: 20px 15px;
+   }
+    .pending-detail .name{
+       width: 100%;
+       padding-left: 0;
+   }
+    .pending-amount-detail{
+       width: 100%;
+       margin-top: 10px;
+   }
+    .pending-amount-detail .Industry-box{
+       text-align: left;
+       width: 50%;
+   }
+    .pending-amount-detail .amount-box{
+       width: 40%;
+   }
+    .dashboard-section ul.process-list{
+        display: flex;
+        width: auto;
+        overflow-x: scroll;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+        -ms-overflow-style: none;
+        overflow: -moz-scrollbars-none;
+        flex-wrap: nowrap;
+        padding-right: 3%;
+        padding-left: 5%;
+        padding-bottom: 50px;
+        justify-content: flex-start;
+        margin-left: -3%;
+        padding-left: 0;
+        margin-right: 0;
+   }
+    .dashboard-section ul.process-list li{
+        min-width: 250px;
+        max-width: 250px;
+        width: 80%;
+        margin-right: 15px;
+   }
+    .dashboard-summmary-section .my-request-box{
+       width: 100%;
+       margin-bottom: 15px;
+   }
+    .dashboard-summmary-section .summary-box{
+       width: 100%;
+   }
+    .latest-news-section ul.process-list{
+        flex-wrap: wrap;
+        overflow-x:hidden;
+        margin: 0;
+        padding: 0;
+        white-space:normal 
+   }
+    .latest-news-section ul.process-list li{
+        width: 100%;
+        max-width: none;
+        min-width: auto;
+        margin-right: 0;
+   }
+    .dashboard-section ul.process-list{
+        white-space:normal 
+   }
+    .dashborad-header .nav-bar{
+       width: 100%;
+   }
+    .dashborad-header{
+       padding: 20px;
+       height: auto;
+   }
+    .dashborad-header .profile-box{
+        padding-left: 0;
+        margin-left: 0;
+        margin-top: 10px;
+        border-left: none;
+        border-top: 1px solid #0084ce;
+        width: 100%;
+        padding-top: 10px;
+        justify-content: space-between;
+   }
+    .dashboard-section ul.process-list{
+       padding-left: 3% !important;
+   }
+    .about-detail-section ul.about-tabs li{
+       font-size: 16px;
+   }
+    .borrower-section .requirement-section{
+       width: 100%;
+   }
+    .about-detail-section ul.about-tabs,.about-busines-box,.upload-section,.message-section{
+       padding: 15px 20px;
+   }
+    .about-busines-box p,.about-busines-box ul.about-detail-list{
+       width: 100%;
+       padding-left: 0;
+   }
+    .about-busines-box ul.about-detail-list{
+       margin-top: 20px;
+   }
+    .notification-section ul.summmary-list li{
+       padding: 15px;
+   }
+    .contact-section ul.summmary-list p{
+       width: 100%;
+   }
+    .contact-section ul.summmary-list a{
+       width: 100%;
+       padding-left: 0;
+   }
+    .upload-section .pending-detail .text-box{
+       width: 100%;
+       margin-bottom: 20px;
+   }
+    .upload-section .pending-detail span{
+       width: 50%;
+   }
+    .upload-section .pending-detail .btn-box{
+       width: 100%;
+       margin-top: 20px;
+       text-align: left;
+   }
+    .pending-request-box .level-1 .text-box{
+       width: 80%;
+   }
+    .pending-request-box .level-1 .img-box{
+       width: 20%;
+   }
+    .merchant-other-details-section .pending-detail .img-box{
+       height: 40px;
+   }
+    .notification-section ul.summmary-list p,.notification-section ul.summmary-list p strong{
+       margin-bottom: 15px;
+       padding-left: 0;
+       padding-top: 30px;
+   }
+    .ur-pending-request-box{
+       padding: 25px 15px;
+   }
+    .pending-request-box{
+       padding: 15px 10px;
+   }
+    .pending-request-box .level-1 .amount-box{
+       width: 50%;
+       margin-top: 10px;
+   }
+    .pending-request-box .level-1 .btn-box{
+       width: 100%;
+       justify-content: space-between;
+       margin-top: 10px;
+   }
+    .pending-request-box ul.level-2-list{
+       justify-content: space-between;
+   }
+    .pending-request-box ul.level-2-list li{
+       width: 50%;
+       margin-bottom: 10px;
+   }
+    .pending-request-box ul.level-2-list li:first-child{
+        padding-left: 15px;
+        border-left: 1px solid #d0dfe4;
+   }
+    .pending-request-box .level-3 p.up{
+       font-size: 13px;
+   }
+    .set-ur-filter-sec .text.l1{
+        margin: 15px 0;
+        padding-bottom: 15px;
+   }
+    .set-ur-filter-sec .text.l1 h4{
+       margin-bottom: 0;
+   }
+    .ur-pending-request-box ul.business-type li{
+       width: 100% !important;
+       margin-bottom: 10px;
+   }
+    .ur-pending-request-box .filter-box .text{
+       margin-bottom: 0;
+   }
+    .filter-status-sec .ur-request-sec{
+       width: 100%;
+   }
+    .ur-business-loan-box .ab-owner ul.summmary-list li{
+       width: 100%;
+   }
+    .ur-business-loan-box .ab-owner ul.summmary-list li p{
+       padding-top: 0;
+       margin-bottom: 0;
+   }
+    .border-top{
+        margin-top: 15px;
+        padding-top: 15px;
+   }
+    .ur-business-loan-box{
+       padding: 25px 15px;
+   }
+    .ur-business-loan-box .pending-scroll-box .pending-detail span{
+        padding-left: 30px !important;
+   }
+    .ur-business-loan-box .pending-scroll-box .pending-detail span::after{
+        left: 0 !important;
+   }
+    .merchant-profile-edit-sec .pending-request-section{
+       width: 100%;
+   }
+    .merchant-profile-form-box .col-5{
+       width: 100%;
+   }
+    .merchant-profile-form-box{
+       padding: 25px 20px;
+   }
+    .merchant-profile-form-box .input-box{
+        margin-bottom: 20px;
+        padding-top: 25px;
+   }
+    .about-detail-section ul.about-tabs{
+       align-items: center;
+   }
+    .merchant-profile-edit-sec .about-detail-section ul.about-tabs li{
+        width: 23%;
+        padding-right: 5px;
+        font-size: 13px;
+   }
+    .merchant-request-send-sec h2::after {
+       top: 0;
+   }
+    .merchant-profile-form-box .profile-form-box{
+       margin-top: 10px;
+   }
+    .about-detail-section ul.about-tabs{
+       padding: 15px;
+   }
+    ul.business-edit li{
+       width: 100% !important;
+   }
+    .news-detail-box{
+        padding: 30px 15px;
+   }
+    .news-detail-box h1{
+       font-size: 25px;
+   }
+    ul.time-list li span{
+       font-size: 14px;
+   }
+    .news-detail-box .img-box{
+       margin: 30px 0;
+   }
+    .news-detail-box h4,.news-detail-box h4 span{
+       font-size: 18px;
+       line-height: 1.6;
+   }
+    .news-detail-box h4{
+       margin-bottom: 20px;
+   }
+    .news-detail-box p{
+       font-size: 16px;
+       line-height: 1.8;
+       margin-bottom: 20px;
+   }
+    ul.blue-list li{
+       font-size: 16px;
+       margin-bottom: 15px;
+       padding-bottom: 15px;
+   }
+    p strong.hd{
+       font-size: 18px;
+   }
+    .news-detail-box .grey-box{
+        padding: 70px 20px 20px 20px;
+        background-position-y: 15px;
+        background-size: 50px;
+   }
+    .email-left-side.dashborad-header .profile-box{
+       width: 50%;
+       margin-top: 0;
+       padding-top: 0;
+       border-top: none;
+   }
+    .email-left-side.dashborad-header .nav-bar{
+       width: 50%;
+   }
+    .email-left-side.dashborad-header .nav-bar .login-box ul.flex-box li p{
+       display: none;
+   }
+    .pending-request-box .level-1 .img-box{
+       height: 67px;
+   }
+   .deal-admin-section {
+    padding: 15px;
+}
+.deals-info-box .grey-sec .col-5{
+    width: 100%;
+    padding: 0 15px;
+    margin-bottom: 20px;
+}
+
+.deals-info-box .grey-sec::after {
+    width: 100%;
+    height: 1px;
+    left: 0;
+    top: 52.5%;
+    transform: translateY(-50%);
+}
+.deal-sec{width: 100%;}
+.ur-message-slider-box.dealdetail-silder-box .ur-message-slider .inner-box{width: 100%;}
+.ur-message-slider-box.dealdetail-silder-box .ur-message-slider .delete-box{
+    justify-content: flex-start;
+width: 25%;
+margin-top: 20px;
+}
+.notification-section ul.summmary-list p::after{top: 15px;left: -1px;}
+.ur-message-slider-box.dealdetail-silder-box .ur-message-slider.reply-box .inner-box{width: 90%;}
+li.notification-icon .merchant-notification-box{min-width: 330px;}
+li.notification-icon .text span{font-size: 12px;}
+.about-detail-section ul.about-tabs li.current::after{bottom: -10px;}
+li.notification-icon .text{justify-content: space-between;align-items: center;width: 100%;}
+.ui-datepicker-calendar td a, .ui-datepicker-calendar td span{padding: 0.3em .5em;font-size: 15px;}
+.ui-datepicker{padding: 30px 20px;}
+}
+@media all and (max-width: 500px){
+    .popup-form h5 {font-size: 19px;width: 80%;}
+    .upload-view-box ul li{
+       justify-content: space-between;
+   }
+    .upload-view-box ul li .view-box{
+       font-size: 11px;
+       margin-bottom: 0;
+   }
+   .pending-scroll-box{height: 400px;}
+   .ui-datepicker-calendar td a, .ui-datepicker-calendar td span{padding: 0.3em .9em;font-size: 13px;}
+   .ui-datepicker-calendar td span, .ui-datepicker-calendar th span{font-size: 13px;}
+    .ur-message-slider .text-box p{
+       font-size: 14px;
+   }
+    .merchant-about-box h2{
+       width: auto;
+   }
+    .banner-section .col-4 .mobile-img{
+       height: 180px;
+       background-size: contain;
+   }
+    .notifications-silder-box .ur-message-slider.reply-box{
+       width: 90%;
+   }
+    .merchant-request-send-sec h4{
+       padding-left: 0;
+       margin-top: 20px;
+   }
+    .merchant-about-box h4{
+       width: 100%;
+   }
+    .our-partners-section{
+       margin: 60px 0;
+   }
+    .form-section .form-text .input-box{
+       margin-bottom: 30px;
+   }
+    .form-section .form-text.flex-box{
+       margin: 0;
+   }
+    .form-section .form-text.flex-box .col-5{
+       width: 100%;
+       padding: 0;
+   }
+    .form-section .form-text.flex-box .input-box{
+       padding: 0;
+   }
+    ul.partners-list li img{
+       width: 70%;
+   }
+    header.warpper .logo-box img{
+       width: 140px;
+   }
+    .form-section .form-text .input-box input{
+       padding-left: 5px;
+   }
+    .dreams-blue-box h3{
+       width: 100%;
+   }
+    .dreams-blue-box ul.btn-list li:first-child{
+       margin-bottom: 5px;
+       margin-right: 0;
+   }
+    .dreams-blue-box{
+       text-align: center;
+   }
+    .dreams-section{
+       background: none;
+   }
+    .dreams-blue-box ul.btn-list {
+       justify-content: center;
+   }
+    .dreams-blue-box h3::before{
+       right: 0;
+   }
+    .dreams-blue-box h3::after{
+       left: 0;
+   }
+    .dreams-section .mobile-img{
+       display: block;
+       height: 310px;
+       object-fit: contain;
+       margin: 30px 0 0 0;
+       object-position: center;
+       width: 100%;
+   }
+    .dreams-blue-box h4{
+       margin-top: 15px;
+   }
+    .dreams-blue-box ul.btn-list li:first-child a{
+       padding: 13px 20px;
+       width: 180px;
+   }
+    .dreams-blue-box ul.btn-list li:last-child a.btn{
+       padding: 12px 20px;
+   }
+    .dreams-blue-box ul.btn-list li a.btn::after{
+       display: none;
+   }
+    .dreams-section .flex-box .col-5{
+       margin-top: 20px;
+   }
+    .dashboard-summmary-section .my-request-box,.dashboard-summmary-section .summary-box,.notification-section,.work-video-section,.usp-section,.latest-news-section{
+        padding: 25px 15px;
+   }
+    .dashborad-section .ur-request-section .text h4{
+       margin-bottom: 0;
+   }
+    ul.process-list li a{
+       padding: 20px 10px;
+   }
+    ul.process-list li a img{
+       width: 35px;
+   }
+    ul.process-list li h6{
+       font-size: 19px;
+       padding-left: 15px;
+   }
+    .ur-message-slider-box .ur-message-slider{
+       padding: 20px 15px;
+   }
+    .ur-message-slider .btn-box{
+       margin-top: 10px;
+   }
+    .ur-message-slider .text-box{
+       margin-top: 15px;
+   }
+    .about-lender-box{
+       margin-top: 15px;
+   }
+    .about-lender-box h3{
+       margin: 20px 0 15px;
+   }
+    .about-lender-box .txt-box{
+       padding-left: 0;
+   }
+    ul.detail-list li{
+       width: 100%;
+   }
+    ul.detail-list li:last-child{
+        margin-left: 0;
+        margin-top: 10px;
+        border-left: none;
+        padding-top: 15px;
+        padding-left: 0;
+        border-top: 1px solid #d0dfe5;
+   }
+    .upload-box{
+        padding: 20px 15px;
+   }
+    .upload-box h5{
+       font-size: 13px;
+   }
+    .upload-box .btn-box a{
+       padding: 7px 15px;
+   }
+    .upload-box .btn-box a{
+       font-size: 11px;
+   }
+    .upload-box .btn-box{
+       margin-top: 20px;
+   }
+    .pending-request-box .level-1 .text-box h6{
+       font-size: 16px;
+   }
+}
+@media all and (max-width: 375px){
+    .banner-section .text-box h1{
+       font-size: 32px;
+   }
+    .banner-section .text-box h2{
+       font-size: 32px !important;
+   }
+    .merchant-profile-edit-sec .pending-request-section,.merchant-profile-edit-sec .filter-status-sec{
+       padding: 20px 15px;
+   }
+    ul.benefits-list li{
+       min-width: 300px;
+        max-width: 300px;
+       padding: 0 20px;
+   }
+    .banner-section .text-box h1{
+       font-size: 30px;
+   }
+    .form-section .form-text h4{
+       font-size: 19px;
+       line-height: 1.1;
+   }
+    .form-section .text-box h2{
+       font-size: 25px !important;
+   }
+    .dreams-blue-box h3{
+       font-size: 28px;
+   }
+    .pending-request-box .level-3 p{
+       width: 100%;
+       margin-bottom: 5px;
+       display: block;
+   }
+    .pending-request-box .level-3 > a{
+       display: block;
+       width: 100%;
+       margin-top: 20px;
+   }
+    .pending-request-box ul.level-2-list li{
+       width: 100%;
+   }
+    .about-detail-section ul.about-tabs{
+        padding: 10px;
+   }
+    .pending-request-box .level-1 .img-box{
+       height: 57px;
+   }
+    .merchant-profile-edit-sec .about-detail-section ul.about-tabs li{
+       font-size: 11px;
+   }
+}

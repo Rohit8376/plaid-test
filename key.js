@@ -1,0 +1,4 @@
+module.exports = {
+    PLAID_CLIENT_ID: "63693265699d1a001388b3b0",
+    PLAID_SECRET: "71a3951f3ca75b0804032dfb17e567"
+};
