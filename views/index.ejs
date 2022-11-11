@@ -19,7 +19,7 @@
                 const response = await fetch('/create_link_token', { method: 'POST' });
                 const responseJSON = await response.json();
                 console.log("fetch token >>>>>>>>>>>>>", responseJSON)
-                alert(`alert ${responseJSON.link_token}`)
+                // alert(`alert ${responseJSON.link_token}`)
                 return responseJSON.link_token;
             };
 
