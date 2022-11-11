@@ -17,9 +17,11 @@ const client = new plaid.Client({
 
 app.use(bodyParser.json())  
 app.use(bodyParser.urlencoded({ extended: true }))
+app.use(cors())
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
 
+/*
 const whitelist = ["http://34.235.139.150:3000/"]
 const corsOptions = {
   origin: function (origin, callback) {
@@ -33,8 +35,7 @@ const corsOptions = {
 }
 app.use(cors(corsOptions))
 
-
-// app.use(cors())
+*/
 
 mongoose.connect(process.env.DB, {
     useNewUrlParser: true,
