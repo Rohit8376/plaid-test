@@ -19,7 +19,22 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
-app.use(cors())
+
+const whitelist = ["http://34.235.139.150:3000/"]
+const corsOptions = {
+  origin: function (origin, callback) {
+    if (!origin || whitelist.indexOf(origin) !== -1) {
+      callback(null, true)
+    } else {
+      callback(new Error("Not allowed by CORS"))
+    }
+  },
+  credentials: true,
+}
+app.use(cors(corsOptions))
+
+
+// app.use(cors())
 
 mongoose.connect(process.env.DB, {
     useNewUrlParser: true,
@@ -135,4 +150,5 @@ const port = process.env.PORT || 3001
 app.listen(port, () => {
     console.log(`Listending on port ${port}`);
 });
+
 
